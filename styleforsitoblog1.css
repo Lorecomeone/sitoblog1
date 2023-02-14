@@ -45,11 +45,12 @@ body{
     align-items: center;
     margin: 20px 0px;
     flex-wrap: wrap;
+    gap: 12px;
 }
 .blog-box{
     width: 350px;
     background-color: #ffffff;
-    border: 1px solid #ececec;
+    border: 1px solid #c30404;
 }
 .blog-img{
     width: 100%;
@@ -80,7 +81,7 @@ body{
     color: #f33c3c;
     transition: all ease 0.3s;
 }
-.blog-test p{
+.blog-text p{
     color: #9b9b9b;
     font-size: 0.9rem;
     display: -webkit-box;
